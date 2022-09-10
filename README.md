@@ -1,6 +1,6 @@
-### Olá, Eu sou o Alberto Brian
+### Olá, Eu sou o Alberto Brian!!
 
-- 🔭 Actualmente estou estudando JavaScrpt
+- 🔭 Actualmente estou estudando JavaScript
 - 🌱 Quero me tornar um desenvolvedor fullstack profissional
 <!--- 👯 I’m looking to collaborate on ...-->
 
