@@ -3,11 +3,10 @@
 - 🔭 Actualmente estou estudando JavaScript
 - 🌱 Quero me tornar um desenvolvedor fullstack profissional
 <!--- 👯 I’m looking to collaborate on ...-->
-<br><br>
 <div align="center">
   <a href="https://github.com/Alberto-Brian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alberto-Brian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-Brian&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Alberto-Brian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-Brian&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
