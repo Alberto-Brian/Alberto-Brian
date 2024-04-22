@@ -1,7 +1,6 @@
 ### Olá, Eu sou o Alberto Brian!!
 
-- 🔭 Actualmente estou estudando JavaScript
-- 🌱 Quero me tornar um desenvolvedor fullstack profissional
+- 🔭 Actualmente estou estudando Typescript
 <!--- 👯 I’m looking to collaborate on ...-->
 <div align="center">
   <a href="https://github.com/Alberto-Brian">
