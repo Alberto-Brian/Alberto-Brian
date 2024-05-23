@@ -1,6 +1,6 @@
-### Olá, Eu sou o Alberto Brian!!
-  ## Desenvolvedor backend por enquanto 😎
-  # Brevemente serei um fulstack
+## Olá, Eu sou o Alberto Brian!!
+### Desenvolvedor backend por enquanto 😎
+#### Brevemente serei um fulstack
 
 - 🔭 Trabalho com nodejs, typescript e actualmente estou estudando o react
 - Abaixo estão as minhas informações de contacto, entra em contacto comigo se estiver precisando de um dev
